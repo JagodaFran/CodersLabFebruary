@@ -1,0 +1,5 @@
+div{
+    width: 500px;
+    height: 200px;
+    background-image: linear-gradient(35deg, darkred, red, indianred,palevioletred, blueviolet,cadetblue, lightblue);
+}

@@ -1,0 +1,46 @@
+body {
+    padding:0;
+    margin:0;
+    font-family: cursive;
+}
+.bg {
+    background-image: url(zadanie 11/zadanie11.jpg);
+    background-size: cover;
+    background-position: 50% 0;
+    background-attachment: fixed;
+    width:50%;
+    height:100vh;
+    position: fixed;
+    left:50%;
+    top:0;
+}
+.container {
+    max-width:50%;
+    padding: 5rem;
+    box-sizing: border-box;
+    font-family: serif;
+    font-weight: 20px;
+    line-height: 2em;
+    color: #555555;
+}
+h1 {
+    color: brown;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 2.5 em;
+    text-transform: uppercase;
+}
+h2 {
+    color: brown;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 2.5 em;
+    text-transform: uppercase;
+}
+
+
+cite {
+    background-color: #eee;
+    font-style: italic;
+    color: #FF5777;
+}}
